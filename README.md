@@ -17,8 +17,11 @@ It uses **machine learning** to predict whether irrigation is required based on 
 ## 📂 Project Structure
 
 ├── app.py # Flask app for predictions
+
 ├── irrigation_machine.csv # Dataset with environmental & crop data
+
 ├── session1.ipynb # Model training & evaluation notebook
+
 └── README.md # Project documentation
 
 
